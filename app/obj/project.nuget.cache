@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gk5njkoKF584r8YUooZmNvfF+6SvMjIG06I6QcBybO87/oZDRmkNd1rl1/tWzguKUUwOK8X7mZD+cpK+M/mkLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dan.spencer\\OneDrive - IRIS Software Group\\Documents\\Projects\\population\\app\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dan.spencer\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
